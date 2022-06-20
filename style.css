@@ -2,3 +2,7 @@ body {
     background: lightskyblue;
     text-align: center;
   }
+
+#joke {
+    font-size: smaller;
+}
